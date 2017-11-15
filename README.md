@@ -32,5 +32,5 @@
    - Descriptive Statistics identifies and calculates descriptive statistics
    - Graphs displays histograms and boxplots
    - Tests holds results for statistical tests
-5. Hypothesis tested: "did the 2008 mortgage/housing crisis have an affect on fair market monthly rental rates (FMR) over various years? A two-tailed difference in means paired t-Test was run to determine statisical significance between group means; results are listed in the "Summary Report" worksheet.
+5. Hypothesis tested: "did the 2008 mortgage/housing crisis have an effect on fair market monthly rental rates (FMR) over various years? A two-tailed difference in means paired t-Test was run to determine statisical significance between group means; results are listed in the "Summary Report" worksheet.
 
