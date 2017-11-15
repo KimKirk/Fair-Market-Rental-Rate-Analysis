@@ -21,6 +21,12 @@
    - CONTROL is categorical, nominal.
 3. FMR was determined to be the dependent variable, CONTROL was determined to be the independent variable.
 4. FMR data across five years was merged into one data set for each CONTROL housing unit.
+5. New variables created include:
+   - FMR 2005
+   - FMR 2007
+   - FMR 2009
+   - FMR 2011
+   - FMR 2013
 4. Worksheets were created to hold four categories for the analysis: 
    - Summary Report identifies and answers the business question/what was measured
    - Descriptive Statistics identifies and calculates descriptive statistics
