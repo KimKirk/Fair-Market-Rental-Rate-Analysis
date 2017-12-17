@@ -4,7 +4,7 @@
 
 - Many businesses still use Excel as a primary "database"/data storage device; to accomodate this, all files are Excel based and analysis was run using Excel. 
 
-- Inferential data analysis was to determine if the 2008 mortgage crisis had an effect on fair market rent (FMR) monthly rate. Hypothesis tested: "did the 2008 mortgage/housing crisis have an effect on fair market monthly rental rates (FMR) over various years? A two-tailed difference in means paired t-Test was run to determine statisical significance between group means; results are listed in the "Summary Report" worksheet.
+- Inferential data analysis was conducted to determine if the 2008 mortgage crisis had an effect on fair market rent (FMR) monthly rate. Hypothesis tested: "did the 2008 mortgage/housing crisis have an effect on fair market monthly rental rates (FMR) over various years? A two-tailed difference in means paired t-Test was run to determine statisical significance between group means; results are listed in the "Summary Report" worksheet.
 
 ## Processing Instructions:
 - Use Excel or application that can open .xlsx files to view the analysis report. 
