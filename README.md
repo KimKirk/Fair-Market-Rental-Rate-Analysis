@@ -14,9 +14,9 @@
 ## Steps to Transformation:
 ### Data was tidied by: 
 - All data points for VALUE variable less than $1000.00 were removed per project instructions.
-- All NULL values were removed. Missing values were missing because the original data source has odd-numbered years in 1985-2009 and "selected only records representing completed interviews for occupied and vacant units, excluding usual residence elsewhere (URE) and noninterview records." per HADS documentation file. https://www.huduser.gov/portal/datasets/hads/HADS_doc.pdf
+- All NULL values were removed. Missing values were missing because the original data source has odd-numbered years in 1985-2009 and "selected only records representing completed interviews for occupied and vacant units, excluding usual residence elsewhere (URE) and noninterview records." [per HADS documentation file](https://www.huduser.gov/portal/datasets/hads/HADS_doc.pdf)
 
-1. Dataset was downloaded from host website: https://www.huduser.gov/portal/datasets/hads/hads.html
+1. Dataset was downloaded from [host website](https://www.huduser.gov/portal/datasets/hads/hads.html)
 2. CONTROL variable and FMR variable over five years was used for analysis.
    - FMR is numeric continuous, normally distributed.
    - CONTROL is categorical, nominal.
